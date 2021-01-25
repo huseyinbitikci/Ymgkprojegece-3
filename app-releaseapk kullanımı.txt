@@ -1,0 +1,9 @@
+app-release.apk dosyasını android telefonunuza indirdikten sonra uygulamayı kurabilmeniz için
+bilinmeyen kaynaklara izin vermeniz gerekmektedir. Tefonunuzun ayarlarına gidin ve cihaz yönetimi kısmından,
+bilinmeyen kaynaklara/uygulamalara  izin verin kısmını aktif edin.
+Uygulamanın kurulumunu artık yapabilirsiniz.. Üzerine tıklayıp indirdiğiniz dosya içinde ki yönergeleri izlemeniz yeterli
+Keyifli şifrelemeler...
+
+
+IOS cihazlar için kurulum yapabilmek mac cihaz gerektirmektedir. Kurulum için bir mac cihazınız ve bir ıos telefona sahipseniz
+bizimle iletişime geçebilirsiniz. Sizlere zevkle yardımcı oluruz. 
